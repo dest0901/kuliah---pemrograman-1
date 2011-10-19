@@ -1,0 +1,5 @@
+Acer, Core 2, 3500000
+Dell, Core i3, 5700000
+Hp, Core i5, 7800000
+Toshiba, Core i3, 7300000
+Asus, Core i3, 4000000
